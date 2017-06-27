@@ -1,0 +1,14 @@
+You've learned a lot about web development so far. 
+I want you to take a moment to write down your thoughts about web development here. 
+Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+---
+
+Your response goes here!
+1. I have not learned any news for this particular project. 
+2. This HTML lesson has been easy; I have had prior experience.
+3. The only thing that has been difficult is formatting my assignments for the Udacity grader.
+4. The only challenges I have had to overcome are researching syntax for new elements.

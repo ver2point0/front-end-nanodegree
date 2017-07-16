@@ -9,7 +9,7 @@
 ### 2. [Mockup to article](https://github.com/ver2point0/front-end-nanodegree/tree/master/2-project-2)
 - Convert a mockup of a blog article into a real website using HTML syntax!
 
-### 3. [Animal trading cards]() 
+### 3. [Animal trading cards](https://github.com/ver2point0/front-end-nanodegree/tree/master/3-project-3) 
 - Create a web-based trading card game of your favorite animal using HTML and CSS.
 
 ### 4. [Build a portfolio site]()

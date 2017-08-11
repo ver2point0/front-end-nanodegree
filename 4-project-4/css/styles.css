@@ -1,9 +1,69 @@
-.logo {
+.logo  {
   margin-top: 25px;
 }
 
-.footer{
+.format  {
+  margin-top: 10px;
+  margin-bottom: 25px;
+}
+
+.footer {
 	margin-top: 60px;
 	font-size: 10px;
 	text-align: center;
+}
+
+@media only screen and (max-width: 992px) {
+	.name-title {
+		text-align: center;
+	}
+
+	.logo {
+		margin-right: auto;
+		margin-left: auto;
+	}
+}
+
+@media only screen and (max-width: 768px) {
+	.name-title {
+		text-align: center;
+	}
+
+	.logo {
+		margin-right: auto;
+		margin-left: auto;
+	}
+}
+
+@media only screen and (max-width: 600px) {
+	.name-title {
+		text-align: center;
+	}
+
+	.logo {
+		margin-right: auto;
+		margin-left: auto;
+	}
+}
+
+@media only screen and (max-width: 480px) {
+	.name-title {
+		text-align: center;
+	}
+
+	.logo {
+		margin-right: auto;
+		margin-left: auto;
+	}
+}
+
+@media only screen and (max-width: 360px) {
+	.name-title {
+		text-align: center;
+	}
+
+	.logo {
+		margin-right: auto;
+		margin-left: auto;
+	}
 }

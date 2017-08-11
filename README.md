@@ -12,7 +12,7 @@
 ### 3. [Animal trading cards](https://github.com/ver2point0/front-end-nanodegree/tree/master/3-project-3) 
 - Create a web-based trading card game of your favorite animal using HTML and CSS.
 
-### 4. [Build a portfolio site]()
+### 4. [Build a portfolio site](https://github.com/ver2point0/front-end-nanodegree/tree/master/4-project-4)
 - Translate a designer's PDF website mockup into a real website.
 
 ### 5. [Online resume]()

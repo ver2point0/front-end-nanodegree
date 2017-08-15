@@ -1,17 +1,27 @@
+/* portfolio logo*/
 .logo  {
   margin-top: 25px;
 }
 
-.format  {
+/* project header*/
+.projects-header  {
   margin-top: 10px;
   margin-bottom: 25px;
 }
 
+/* project information */
+.project-info {
+  background-color: #eeeeee;
+}
+
+/* footer */
 .footer {
 	margin-top: 60px;
 	font-size: 10px;
 	text-align: center;
 }
+
+/* media screens */
 
 @media only screen and (max-width: 992px) {
 	.name-title {

@@ -1,6 +1,17 @@
 /* portfolio logo*/
 .logo  {
   margin-top: 25px;
+  margin-bottom: 15px;
+}
+
+/* hr declaration */
+.hr-rule {
+  border-bottom: 3px solid black;
+}
+
+/* hero image */
+.hero-image {
+  margin-top: 15px;
 }
 
 /* project header*/
